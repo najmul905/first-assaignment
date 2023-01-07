@@ -1,6 +1,6 @@
 /* header style */
 header{
-    background: url(/banner3.png);
+    background: url(./banner3.png);
     background-repeat: no-repeat;
     text-align: right;
     padding: 200px;
@@ -41,7 +41,7 @@ header{
 .picture-add{
     padding-left: 75px;
     padding-top: 70px;
-    background: url(/watch.png);
+    background: url(./watch.png);
     background-repeat: no-repeat;
     height: 300px;
     top: 100px;
