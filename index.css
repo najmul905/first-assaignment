@@ -7,14 +7,7 @@ header{
     color: white;
     
 }
-#uniq{
-    height: 20px;
-    15px
-    background-color: brown;
-    color: aquamarine;
-    border-inline: none;
-    border-radius: 12px;
-}
+
 /* dive style */
 .person{
     display: flex;
